@@ -2,7 +2,7 @@ const funFacts = [
     "Cats sleep for 70% of their lives!",
     "The oldest known pet cat existed 9,500 years ago.",
     "Cats have over 20 muscles that control their ears.",
-    "A group of cats is called a clowder!",
+    "bika bf is jesse !",
     "The world's largest cat measured 48.5 inches long."
 ];
 
